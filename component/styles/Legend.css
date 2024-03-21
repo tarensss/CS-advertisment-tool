@@ -1,0 +1,8 @@
+.legend .MuiListItem-root {
+  width: auto !important;
+}
+
+.legend .MuiChip-avatar {
+  width: 50px !important;
+  height: 50px !important;
+}

@@ -1,0 +1,18 @@
+.App {
+  width: 100vw;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.description {
+  padding: 45px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.classes-container {
+  width: 100%;
+  margin-top: 50px;
+}

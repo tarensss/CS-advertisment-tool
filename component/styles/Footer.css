@@ -1,0 +1,48 @@
+.footer1 {
+  border-top: 10px solid rgb(39, 78, 160);
+  background-color: #1e90ff;
+}
+
+.footer2 {
+  border-top: 10px solid rgb(204, 123, 17);
+  background-color: #f4a460;
+}
+
+.footer3 {
+  border-top: 10px solid rgb(0, 158, 96);
+  background-color: #32cd32;
+}
+
+.footer4 {
+  border-top: 10px solid rgb(75, 0, 130);
+  background-color: #663399;
+}
+
+.footer5 {
+  background-color: #009688;
+  border-top: 10px solid rgb(0, 126, 101);
+}
+
+.footer6 {
+  background-color: #bf987b;
+  border-top: 10px solid rgb(140, 93, 56);
+}
+
+.authFooter {
+  background-color: #cd4932;
+}
+
+.footer {
+  border-top: 10px solid rgb(172, 12, 7);
+  background-color: #cd4932;
+}
+
+footer {
+  display: flex;
+  width: 100%;
+  height: inherit;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}

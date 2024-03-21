@@ -1,0 +1,35 @@
+.flowchart3 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.flowchart3 .react-flow {
+  border: 5px solid #32cd32;
+  border-radius: 18px;
+  margin-top: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.flowchart3 .classes-card {
+  border: 5px solid #32cd32 !important;
+  margin: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.flowchart3 .flowchart-header {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  background-color: #32cd32;
+  border-bottom: 10px solid rgb(0, 158, 96);
+}
+
+.flowchart3 .MuiListItem-root {
+  width: auto !important;
+}
